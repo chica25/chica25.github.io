@@ -1,4 +1,4 @@
-#### Hi there! Welcome to my website!
+#### Hi there, Welcome to my portfolio website!
 
  I am a software engineer with a background in digital design and illustration. I'm currently doing a data science fellowship, that was pushed me to learn about data analysis and machine learning.
 
