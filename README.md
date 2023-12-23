@@ -1,6 +1,6 @@
 #### Hi there, Welcome to my portfolio website!
 [^2]:
- I am a software engineer with a background in digital design and illustration. I'm currently doing a data science fellowship, that was pushed me to learn about data analysis and machine learning.
+ I am a software engineer with a background in digital design and illustration. I'm currently doing a data science fellowship, specializing in data analysis and machine learning.
 [^2]:
 3 fun facts about me: I did a stop animation workshop in Prague, The Czech Republic, I am fluent in three languages and currently learning Japanese, and I am well familiar with most dog breeds. 
 [^2]:
@@ -28,5 +28,9 @@ Stacks: React, JavaScript, Activerecord, Ruby on Rails, Vanilla CSS
 [^1]:
 An Application for users to keep track of star constellations based on the date, time and year and option to insert images and description. Built in Ruby on Rails and Active Record association.
 Stacks: Ruby on Rails API, ERB, Google OAuth
-
-
+[^2]:
+#### Feel free to connect!
+[^1]:
+[LinkedIn](https://www.linkedin.com/in/pfco520/)
+[^1]:
+E: pfco520@gmail.com
